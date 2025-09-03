@@ -2,7 +2,6 @@
 
 [![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Milad%20Amini%20👨‍💻&username=0ZMilad&width=800&height=125)](https://github.com/0ZMilad)
 
----
 ## 🛠️ Tech Stack
 
 ### 🔹 Languages  
@@ -14,21 +13,15 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
 
----
-
 ### 🔹 Frameworks & Libraries  
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white)
 ![Zod](https://img.shields.io/badge/Zod-3068B7.svg?style=plastic&logo=zod&logoColor=white)
 
----
-
 ### 🔹 Databases  
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white)
 ![Oracle SQL](https://img.shields.io/badge/Oracle%20SQL-F80000.svg?style=plastic&logo=oracle&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-003B57.svg?style=plastic&logo=sqlite&logoColor=white)
-
----
 
 ### 🔹 DevOps & Source Control  
 ![Git](https://img.shields.io/badge/Git-fc6d26?style=plastic&logo=git&logoColor=white)
@@ -38,8 +31,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=plastic&logo=docker&logoColor=white)
 ![Kibana](https://img.shields.io/badge/Kibana-005571.svg?style=plastic&logo=kibana&logoColor=white)
 
----
-
 ### 🔹 Dev & QA Tools  
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=plastic&logo=postman&logoColor=white)
 ![cURL](https://img.shields.io/badge/cURL-073551.svg?style=plastic&logo=curl&logoColor=white)
@@ -47,20 +38,10 @@
 ![Jest](https://img.shields.io/badge/Jest-C21325.svg?style=plastic&logo=jest&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18.svg?style=plastic&logo=vitest&logoColor=white)
 
-</div>
-
----
-
-<div align="center">
-
 ## 🚀 Projects
 
 [![⚡ My Website](https://img.shields.io/badge/⚡%20My%20Website-black?style=plastic)](https://github.com/0ZMilad/0ZMilad-V1) &nbsp;&nbsp;&nbsp;
 [![AllergyGuard](https://img.shields.io/badge/AllergyGuard-blue?style=plastic)](https://github.com/0ZMilad/AllergyGuard) &nbsp;&nbsp;&nbsp;
 [![EcomMaven](https://img.shields.io/badge/EcomMaven-green?style=plastic)](https://github.com/EddiePoulter/Ecom-Maven)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=0Zmilad&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
